@@ -24,8 +24,8 @@ Replaces the transparent areas of the image with a solid color while preserving 
 
 ```bash
 # Clone the repository
-git clone https://github.com/spa-dev/rbgen.git
-cd rbgen
+git clone https://github.com/spa-dev/background-generator.git
+cd background-generator
 
 # Install dependencies
 pip install -r requirements.txt
